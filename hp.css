@@ -9,6 +9,11 @@ img{
     height: 250px;
 }
 
+a{
+    text-decoration: none;
+    color: #fffce8;
+}
+
 body{
     height: 360vh;
     background-color: #fffce8;
@@ -193,6 +198,11 @@ h2{
     display: grid;
     justify-content: center ;
     align-items: center;
+    font-size: 2rem;
+}
+
+u{
+    text-decoration-color: #697a21;
 }
 
 
